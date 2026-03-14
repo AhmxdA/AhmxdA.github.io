@@ -36,7 +36,7 @@ education:
     summary: "Transferred to UofA in my 3rd year.\n"
 
 experience:
-  - role: "UX/UI Design Lead|Programmer|Writer"
+  - role: "UX/UI Design|Programmer|Writer"
     org: "Rebirth Engine"
     start: "2026-01-10"
     summary: "Responsibilities include:
@@ -45,7 +45,7 @@ experience:
 
       - Unity Development
 
-      - Storyboarding with team\n"
+      - Writing story elements\n"
   - role: "AI Quality Control and Testing"
     org: "Outlier"
     start: "2026-03-01"
@@ -61,10 +61,10 @@ skills:
         level: 5
       - label: "C++"
         level: 5
-      - label: "Unity"
-        level: 3
       - label: "SQL"
         level: 4
+      - label: "Unity"
+        level: 3
       - label: "PyTorch"
         level: 2
   - name: "Hobbies"
